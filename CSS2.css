@@ -1,0 +1,44 @@
+#Window{
+	height: 600px;
+	width: 1024px;
+	background-color: #eb7d67;
+}
+
+#Title{
+	height: 100px;
+	width: 1024px;
+	background-color: #bf6524;
+}
+
+#MenuBar{
+	height: 50px; 
+	width: 1024px;
+	background-color: #d1c008;
+}
+
+#LeftBar{
+	height: 400px ;
+	width: 200px ;
+	background-color: #32a852;
+	float: left;
+}
+
+#RightBar{
+	height: 400px ;
+	width: 200px;
+	background-color: #32a852;
+	float: right;
+}
+
+#MiddleBar{
+	height: 400px;
+	width: 424px;
+	background-color: #eb7d67;
+	margin-left: 200px;
+}
+
+#Footer{
+	height: 50px;
+	width: 1024;
+	background-color: #9cde66;
+}
